@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razal</h1>
 <h3 align="center">A passionate Mern developer from India</h3>
-    <img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02" alt="Coding" width="400 ">
+    <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/0*BoZuMV2kfcjiiTDV.png" alt="Coding" width="400 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razalp&label=Profile%20views&color=0e75b6&style=flat" alt="razalp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
