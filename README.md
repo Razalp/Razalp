@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate **more projects**
 
-- 👨‍💻 All of my projects are available at [my git](my git)
+- 👨‍💻 All of my projects are available at my Git
 
 - 📫 How to reach me **razalp0012300@gamil.com**
 
