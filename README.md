@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Razal</h1>
+<h1 align="center">Hi 👋., I'm Razal</h1>
 <h3 align="center">A passionate Mern developer from India</h3>
     <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/0*BoZuMV2kfcjiiTDV.png" alt="Coding" width="400 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razalp&label=Profile%20views&color=0e75b6&style=flat" alt="razalp" /> </p>
