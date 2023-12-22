@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [e commerce](https://github.com/Razalp/myShopy.git)
 
-- 🌱 I’m currently learning **Nextjs ,ds advance**
+- 🌱 I’m currently learning ** Redux,Nextjs ,ds advance**
 
 - 👯 I’m looking to collaborate **more projects**
 
