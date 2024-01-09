@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Nextjs ,ds advance, microservice , clean architecture**
 
-- 👯 I’m looking to collaborate **more projects**
+- 👯 I’m looking to collaborate more projects
 
 - 👨‍💻 All of my projects are available at my Git
 
